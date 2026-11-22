@@ -6,7 +6,7 @@
 
 ![Персонажи](docs/screenshots/1_characters.png)
 
-![Персонаж]docs/screenshots/2_character.png)
+![Персонаж](docs/screenshots/2_character.png)
 
 Что делает:
 - два экрана, у каждого своя ViewModel и своё состояние;
