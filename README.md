@@ -4,9 +4,9 @@
 из Rick and Morty: список с фото и подгрузкой новых страниц, а если нажать
 на персонажа — его данные и серии, в которых он появлялся.
 
-(docs/screenshots/1_characters.png)
+!(docs/screenshots/1_characters.png)
 
-(docs/screenshots/2_character.png)
+!docs/screenshots/2_character.png)
 
 Что делает:
 - два экрана, у каждого своя ViewModel и своё состояние;
