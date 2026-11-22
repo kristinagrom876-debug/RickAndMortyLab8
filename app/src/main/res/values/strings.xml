@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Rick and Morty — лабораторная 8</string>
+
+    <!-- Заголовки экранов -->
+    <string name="characters_title">Персонажи</string>
+    <string name="character_title">Персонаж</string>
+
+    <!-- Общие состояния и действия -->
+    <string name="loading">Загрузка…</string>
+    <string name="loading_more">Загрузка…</string>
+    <string name="loading_failed">Ошибка загрузки</string>
+    <string name="error_icon">Иконка ошибки загрузки</string>
+    <string name="retry">Повторить</string>
+    <string name="back">Назад</string>
+
+    <!-- Подписи полей и изображений -->
+    <string name="character_photo">Фотография персонажа</string>
+    <string name="name_label">Имя: %1$s</string>
+    <string name="character_type">Тип: %1$s</string>
+    <string name="character_status">Статус: %1$s</string>
+    <string name="character_species">Вид: %1$s</string>
+    <string name="character_gender">Пол: %1$s</string>
+    <string name="episodes_title">Серии</string>
+    <!-- Код серии (S01E01) оставляем без перевода -->
+    <string name="episode_line">%1$s — %2$s</string>
+
+    <!-- Значения полей -->
+    <string name="status_alive">Живой</string>
+    <string name="status_dead">Мёртвый</string>
+    <string name="status_unknown">Неизвестно</string>
+
+    <string name="species_human">Человек</string>
+    <string name="species_alien">Пришелец</string>
+    <string name="species_robot">Робот</string>
+    <string name="species_animal">Животное</string>
+    <string name="species_humanoid">Гуманоид</string>
+    <string name="species_mythological">Мифологическое существо</string>
+    <string name="species_cronenberg">Кроненберг</string>
+    <string name="species_disease">Болезнь</string>
+    <string name="species_poopybutthole">Пупышеморд</string>
+    <string name="species_unknown">Неизвестно</string>
+
+    <string name="gender_female">Женский</string>
+    <string name="gender_male">Мужской</string>
+    <string name="gender_genderless">Без пола</string>
+    <string name="gender_unknown">Неизвестно</string>
+
+    <string name="type_unspecified">Не указано</string>
+    <string name="date_unspecified">Не указано</string>
+
+    <!-- Месяцы для даты выхода серии -->
+    <string name="month_01">января</string>
+    <string name="month_02">февраля</string>
+    <string name="month_03">марта</string>
+    <string name="month_04">апреля</string>
+    <string name="month_05">мая</string>
+    <string name="month_06">июня</string>
+    <string name="month_07">июля</string>
+    <string name="month_08">августа</string>
+    <string name="month_09">сентября</string>
+    <string name="month_10">октября</string>
+    <string name="month_11">ноября</string>
+    <string name="month_12">декабря</string>
+    <string name="air_date_format">%1$d %2$s %3$s г.</string>
+</resources>
